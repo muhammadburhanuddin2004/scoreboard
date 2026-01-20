@@ -1,0 +1,36 @@
+body {
+    margin: 10px 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(6, 6, 70);
+    width: 50%;
+    height: 40%;
+    border-radius: 20px;
+}
+h1 {
+    color: antiquewhite;
+}
+.black{
+    background-color: black;
+    width:  150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+h2 {
+    color: red;
+}
+button{
+    margin: 15px 10px;
+    background-color:  rgb(6, 6, 70);
+    border: 1px solid white;
+    color: aliceblue;
+    padding: 5px;
+}
